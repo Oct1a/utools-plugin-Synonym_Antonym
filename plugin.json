@@ -1,0 +1,19 @@
+{
+  "pluginName": "中文同/反义词",
+  "description": "在线近义词反义词查询",
+  "author": "Oct1a_H",
+  "homepage": "http://oct1a.cn/",
+  "logo": "logo.png",
+  "preload": "preload.js",
+  "features": [{
+      "code": "synonyms",
+      "explain": "指词汇意义相同或相近的词语",
+      "cmds": ["同义词", "近义词"]
+    },
+    {
+      "code": "antonyms",
+      "explain": "反义词就是两个意思相反的词",
+      "cmds": ["反义词"]
+    }
+  ]
+}
